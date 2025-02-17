@@ -1,0 +1,5 @@
+# All files to ignore
+
+node_modules/
+queries.sql
+.env
